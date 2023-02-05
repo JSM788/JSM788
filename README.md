@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/juan.salinasmisayauri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/juan.salinasmisayauri/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/juan-salinas-misayauri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/juan-salinas-misayauri/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juan-salinas-misayauri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/juan-salinas-misayauri/" height="30" width="40" /></a>
 <a href="https://medium.com/@salinasjuan788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salinasjuan788" height="30" width="40" /></a>
 <a href="https://discord.gg/#4133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4133" height="40" width="50" /></a>
 </p>
