@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **high impact projects**
 
-- 🧠 I’m currently learning **Python, Mysql, Javascript, React...**
+- 🧠 I’m currently learning **Python, Mysql, Javascript, Angular...**
 
 - 📫 How to reach me **salinasjuan788@gmail.com**
 
