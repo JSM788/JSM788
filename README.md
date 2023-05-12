@@ -1,6 +1,6 @@
 <br/>
 <h1 align="center">Hi 👋, I'm Juan Salinas Misayauri</h1>
-<h3 align="center">Full Stack Engineer in progress, studying at holberton school for 9 months, waiting for a team to be able to contribute my knowledge and be able to further develop my skills.</h3>
+<h3 align="center">Full Stack Developer, who continually seeks new challenges and opportunities to grow professionally, adding value through my experience and knowledge.</h3>
 <br/>
 
 - 🌍  I'm based in Lima, Perú.
